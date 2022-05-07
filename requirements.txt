@@ -1,0 +1,5 @@
+pandas==1.2.4
+yaml==0.2.5
+pyyaml==5.4.1
+praw==7.5.0
+prawcore==2.3.0
