@@ -18,987 +18,982 @@ reddit:
   client_secret: YOUR_CLIENT_SECTER
   user_agent: YOUR_USER_AGENT
 subreddit_names:
-- psychotherapy
-- 90s
-- ABoringDystopia
-- AcademicPsychology
-- Acadiana
-- AdviceAnimals
-- AfterTheLoop
-- AirForce
-- AmITheDevil
-- AmItheAsshole
-- Amsterdam
-- AnalogCommunity
-- Anarchism
-- AppleMusic
-- ArtefactPorn
-- AskARussian
-- AskAnAmerican
-- AskDocs
-- AskEconomics
-- AskEngineers
-- AskFoodHistorians
-- AskHistorians
-- AskHistory
-- AskMen
-- AskOldPeople
-- AskPhysics
-- AskReddit
-- AskScienceDiscussion
-- AskSocialScience
-- AskWomenOver30
-- Ask_Politics
-- Austin
-- BDSMAdvice
-- Baking
-- BestofRedditorUpdates
-- BlackPeopleTwitter
-- BreakUps
-- Buttcoin
-- COVID19positive
-- CPTSD
-- Calgary
-- CampingandHiking
-- CasualConversation
-- CasualUK
-- CatastrophicFailure
-- China
-- ChronicIllness
-- Coffee
-- Columbus
-- CombatFootage
-- Conservative
-- Cooking
-- Coronavirus
-- CoronavirusMa
-- CredibleDefense
-- CryptoCurrency
-- CuratedTumblr
-- Cyberpunk
-- Damnthatsinteresting
-- Denver
-- Documentaries
-- DoesAnybodyElse
-- EconomicHistory
-- Economics
-- Fantasy
-- Firearms
-- Fishing
-- FundieSnarkUncensored
-- Futurology
-- Games
-- Gold
-- GreenAndPleasant
-- Gymnastics
-- HermanCainAward
-- HistoryMemes
-- HistoryPorn
-- HobbyDrama
-- IDontWorkHereLady
-- IWantToLearn
-- IndianCountry
-- Jeopardy
-- JusticeServed
-- Justrolledintotheshop
-- LabourUK
-- LateStageCapitalism
-- Lawyertalk
-- LeopardsAteMyFace
-- LineageOS
-- LosAngeles
-- MadeMeCry
-- MadeMeSmile
-- Mafia
-- MapPorn
-- Marriage
-- MensLib
-- Military
-- MilitaryStories
-- MorbidHistory
-- Music
-- MuslimMarriage
-- NarcoFootage
-- NatureIsFuckingLit
-- NoStupidQuestions
-- NonBinary
-- NonCredibleDefense
-- Nordichistorymemes
-- Norse
-- NotHowGirlsWork
-- OldSchoolCool
-- OntarioCanada
-- OrganicChemistry
-- OutOfTheLoop
-- ParlerWatch
-- Portland
-- Professors
-- ProgrammerHumor
-- PublicFreakout
-- QAnonCasualties
-- QuantumPhysics
-- Qult_Headquarters
-- RedditForGrownups
-- Residency
-- RomanceBooks
-- SWORDS
-- Scotland
-- Screenwriting
-- Seattle
-- ShitLiberalsSay
-- Showerthoughts
-- Socialism_101
-- SubredditDrama
-- SweatyPalms
-- Teachers
-- ThatsInsane
-- TheGirlSurvivalGuide
-- TheLastKingdom
-- TikTokCringe
-- TooAfraidToAsk
-- ToolBand
-- Transmedical
-- TrollXChromosomes
-- TrueCrime
-- TrueFilm
-- TrueOffMyChest
-- TwoBestFriendsPlay
-- USMC
-- UkraineWarVideoReport
-- UpliftingNews
-- WTF
-- WarCollege
-- WarshipPorn
-- Warthunder
-- WatchPeopleDieInside
-- Watches
-- Whatcouldgowrong
-- WhatsWrongWithYourDog
-- WhitePeopleTwitter
-- Windows10
-- YouShouldKnow
-- anime_titties
-- antiwork
-- apple
-- army
-- askTO
-- askdrugs
-- askgaybros
-- askphilosophy
-- askscience
-- asktransgender
-- assassinscreed
-- australia
-- aviation
-- aww
-- axolotls
-- badwomensanatomy
-- bengals
-- bestof
-- bestoflegaladvice
-- britishproblems
-- canadahousing
-- cancer
-- chemistry
-- chess
-- cincinnati
-- cna
-- collapse
-- coloradohikers
-- confidentlyincorrect
-- coolguides
-- craftsnark
-- creepy
-- creepyencounters
-- diabetes_t1
-- duolingo
-- ems
-- environment
-- espresso
-- europe
-- exchristian
-- exvegans
-- facepalm
-- farming
-- feemagers
-- femalefashionadvice
-- fountainpens
-- fragrance
-- funny
-- gadgets
-- gamedev
-- gay_irl
-- gifs
-- goldenretrievers
-- greentext
-- harrypotter
-- help
-- history
-- humansarespaceorcs
-- insanepeoplefacebook
-- interestingasfuck
-- investing
-- ireland
-- justneckbeardthings
-- languagelearning
-- learnprogramming
-- lexington
-- linguistics
-- medicalschool
-- medicine
-- medizzy
-- meirl
-- morbidquestions
-- movies
-- musicals
-- musictheory
-- mycology
-- navy
-- nba
-- neoliberal
-- newborns
-- news
-- nextfuckinglevel
-- nocontextpics
-- nottheonion
-- nursing
-- nutrition
-- nyc
-- olympics
-- ontario
-- opiates
-- osr
-- ottawa
-- peopleofwalmart
-- personalfinance
-- photography
-- physicsmemes
-- pics
-- polls
-- popheads
-- povertyfinance
-- pregnant
-- preppers
-- programming
-- relationship_advice
-- science
-- secularbuddhism
-- self
-- service_dogs
-- singapore
-- skeptic
-- slowcooking
-- socialism
-- spacex
-- specializedtools
-- spiderbro
-- talesfromtechsupport
-- tasmania
-- tech
-- technology
-- television
-- thanksimcured
-- therapists
-- tifu
-- todayilearned
-- toddlers
-- tooktoomuch
-- traaaaaaannnnnnnnnns
-- travel
-- tumblr
-- vexillology
-- videos
-- vultureculture
-- weightlifting
-- whatisthisthing
-- worldnews
-- wowthissubexists
-- writing
-- ww2
-- yesyesyesno
-- youtubehaiku
-- 3Dprinting
-- 80sdesign
-- AccidentalWesAnderson
-- AdorableArt
-- Art
-- ArtistLounge
-- Blacksmith
-- Bonsai
-- DIY
-- Design
-- DiWHY
-- DigitalPainting
-- EarthPorn
-- Embroidery
-- Heavymind
-- HelpMeFind
-- HomeImprovement
-- ICanDrawThat
-- IDAP
-- InteriorDesign
-- InternetIsBeautiful
-- MechanicAdvice
-- OldSchoolCool
-- PenmanshipPorn
-- Plumbing
-- RoomPorn
-- SonyAlpha
-- SpecArt
-- Tools
-- VaporwaveAesthetics
-- blender
-- conceptart
-- coolguides
-- graphic_design
-- houseplants
-- itookapicture
-- learnart
-- logodesign
-- painting
-- photomarket
-- photoshop
-- proplifting
-- raining
-- sewing
-- tattoos
-- typography
-- vexillology
-- videography
-- web_design
-- wyzecamATBGE
-- AbandonedPorn
-- AmateurRoomPorn
-- ArchitecturePorn
-- ArtCrit
-- ArtFundamentals
-- CozyPlaces
-- CrappyDesign
-- CrossStitch
-- DesignPorn
-- HomeKit
-- MostBeautiful
-- Pareidolia
-- PhotoshopRequest
-- PixelArt
-- PlantedTank
-- Sculpture
-- Skookum
-- Welding
-- analog
-- animation
-- architecture
-- assholedesign
-- cactus
-- chat
-- cinematography
-- comics
-- computergraphics
-- dontdeadopeninside
-- doodles
-- electronics
-- ender3
-- fixit
-- functionalprint
-- homestead
-- howto
-- lawncare
-- minimalism
-- minipainting
-- modelmakers
-- orchids
-- photocritique
-- photoshopbattles
-- plantclinic
-- postprocessing
-- quilting
-- visualization
-- whatsthisplant
-- ''
-- 1200isplenty
-- 2007scape
-- 49ers
-- 90DayFiance
-- ACMilan
-- Adelaide
-- Amd
-- Android
-- Animesuggest
-- AnthemTheGame
-- AskCulinary
-- AskNYC
-- AskWomen
-- Astros
-- Atlanta
-- AtlantaUnited
-- Austria
-- Barca
-- BattlefieldV
-- BeautyBoxes
-- BeautyGuruChatter
-- Berserk
-- BigBrother
-- BlackClover
-- Blackops4
-- BoJackHorseman
-- BokuNoHeroAcademia
-- Boruto
-- BostonBruins
-- Boxing
-- Braves
-- BravoRealHousewives
-- Brawlstars
-- Breath_of_the_Wild
-- Brogress
-- Browns
-- C25K
-- CFB
-- CHIBears
-- CHICubs
-- CampingGear
-- Cardinals
-- Charlotte
-- ClashOfClans
-- ClashRoyale
-- CoDCompetitive
-- CollegeBasketball
-- Competitiveoverwatch
-- Cricket
-- CrohnsDisease
-- CrusaderKings
-- DBZDokkanBattle
-- DMAcademy
-- Dallas
-- DanLeBatardShow
-- DaysGone
-- Denmark
-- Destiny
-- DestinyTheGame
-- Detroit
-- Disneyland
-- DnD
-- Dodgers
-- DotA2
-- DuelLinks
-- DunderMifflin
-- DynastyFF
-- EDH
-- EDanonymemes
-- EOOD
-- EatCheapAndHealthy
-- Edmonton
-- EliteDangerous
-- EscapefromTarkov
-- Eve
-- FFBraveExvius
-- FIFA
-- FORTnITE
-- FUTMobile
-- Fallout
-- FantasyPL
-- FireEmblemHeroes
-- Fitness
-- FixedGearBicycle
-- FlashTV
-- FortNiteBR
-- FortniteCompetitive
-- Frugal
-- GameOfThronesMemes
-- Gamingcirclejerk
-- GetMotivated
-- Glitch_in_the_Matrix
-- GlobalOffensive
-- GlobalOffensiveTrade
-- GooglePixel
-- GreenBayPackers
-- Grimdank
-- Guildwars2
-- Gundam
-- HBOGameofThrones
-- Hair
-- HealthyFood
-- HomeImprovement
-- IASIP
-- IAmA
-- IWantOut
-- ImaginaryWesteros
-- Indiemakeupandmore
-- Instagram
-- Israel
-- JapanTravel
-- Konosuba
-- LearnJapanese
-- LegendsOfTomorrow
-- Less
-- LifeProTips
-- LigaMX
-- LiverpoolFC
-- LivestreamFail
-- LosAngelesRams
-- LushCosmetics
-- MCFC
-- MLBTheShow
-- MLS
-- MMA
-- MTB
-- MUAontheCheap
-- MagicArena
-- Makeup
-- MakeupAddiction
-- MakingaMurderer
-- Market76
-- MarvelStrikeForce
-- Mavericks
-- Minecraft
-- Minneapolis
-- MkeBucks
-- ModernMagic
-- MonsterHunterWorld
-- Mordhau
-- MortalKombat
-- MtvChallenge
-- NBA2k
-- NBASpurs
-- NFA
-- NHLHUT
-- NYKnicks
-- NYYankees
-- Naruto
-- Nationals
-- Nerf
-- NetflixBestOf
-- NewOrleans
-- NewSkaters
-- NewYorkMets
-- NintendoSwitch
-- NoMansSkyTheGame
-- OnePiece
-- Overwatch
-- PS4
-- PSVR
-- PUBATTLEGROUNDS
-- PUBGMobile
-- Paladins
-- PanPorn
-- PandR
-- Patriots
-- Persona5
-- Philippines
-- Planetside
-- Polska
-- Quebec
-- RWBY
-- Rainbow6
-- RedDeadOnline
-- RedditLaqueristas
-- RepLadiesBST
-- Repsneakers
-- RimWorld
-- RocketLeague
-- RocketLeagueExchange
-- Romania
-- Rowing
-- SFGiants
-- SWGalaxyOfHeroes
-- Sacramento
-- SaltLakeCity
-- SanJoseSharks
-- SarahSnark
-- Seaofthieves
-- SequelMemes
-- ShingekiNoKyojin
-- Shoestring
-- Smite
-- Sneakers
-- Spiderman
-- SpoiledDragRace
-- SquaredCircle
-- StLouis
-- StarVStheForcesofEvil
-- StarWarsBattlefront
-- StardewValley
-- Steam
-- Stellaris
-- StrangerThings
-- Stronglifts5x5
-- Suomi
-- Supplements
-- TeenMomOGandTeenMom2
-- Terraria
-- TheAmazingRace
-- TheBlackList
-- TheDickShow
-- TheHandmaidsTale
-- TheLastAirbender
-- TheSimpsons
-- Tinder
-- Torontobluejays
-- Turkey
-- TurkeyJerky
-- Twitch
-- VictoriaBC
-- WWE
-- WWEGames
-- WaltDisneyWorld
-- Warframe
-- Warhammer40k
-- Watchexchange
-- Wellington
-- Wetshaving
-- Winnipeg
-- WorldOfWarships
-- WorldofTanks
-- Youniqueamua
-- aSongOfMemesAndRage
-- acne
-- adventuretime
-- airsoft
-- amateur_boxing
-- anime
-- anime_irl
-- argentina
-- arrow
-- asoiaf
-- awardtravel
-- backpacking
-- balisong
-- barstoolsports
-- baseball
-- batman
-- battlestations
-- bayarea
-- beards
-- beauty
-- berkeley
-- bicycling
-- bikecommuting
-- bikewrench
-- bjj
-- blackmirror
-- bleach
-- boardgames
-- bodybuilding
-- bodyweightfitness
-- books
-- boostedboards
-- bostonceltics
-- brasil
-- brasilivre
-- breakingbad
-- brisbane
-- brooklynninenine
-- buildapc
-- camping
-- canada
-- canucks
-- cars
-- chelseafc
-- chile
-- cirkeltrek
-- classicwow
-- climbing
-- community
-- confession
-- cordcutters
-- cowboys
-- coys
-- criterion
-- croatia
-- crossfit
-- cscareerquestions
-- curlyhair
-- cycling
-- danganronpa
-- dauntless
-- dbz
-- de
-- deadbydaylight
-- denvernuggets
-- destiny2
-- detroitlions
-- diabetes
-- discgolf
-- discordapp
-- disney
-- dndmemes
-- dndnext
-- doctorwho
-- dubai
-- eagles
-- ehlersdanlos
-- elderscrollsonline
-- eu4
-- explainlikeimfive
-- fairytail
-- fantasybaseball
-- fantasyfootball
-- fasting
-- femalehairadvice
-- ffxiv
-- findfashion
-- fireemblem
-- fivenightsatfreddys
-- flexibility
-- flightsim
-- flyfishing
-- fo76
-- footballmanagergames
-- forhonor
-- formula1
-- france
-- freefolk
-- frugalmalefashion
-- futurama
-- future_fight
-- gainit
-- gameofthrones
-- germany
-- girlsfrontline
-- golf
-- goodyearwelt
-- grandorder
-- greece
-- greysanatomy
-- gtaonline
-- halifax
-- halo
-- headphones
-- hearthstone
-- heroesofthestorm
-- hiking
-- hockey
-- hockeyjerseys
-- hockeyplayers
-- houston
-- howardstern
-- hungary
-- india
-- indonesia
-- intermittentfasting
-- iphone
-- italy
-- jailbreak
-- japanesestreetwear
-- japanlife
-- jobs
-- kansascity
-- keto
-- korea
-- lakers
-- leafs
-- leagueoflegends
-- leangains
-- learnpython
-- legaladvice
-- longboarding
-- loseit
-- lucifer
-- makeupexchange
-- malaysia
-- malefashion
-- malefashionadvice
-- malehairadvice
-- malelivingspace
-- marvelmemes
-- marvelstudios
-- medical_advice
-- melbourne
-- memes
-- mexico
-- migraine
-- minnesotatwins
-- minnesotavikings
-- mw4
-- mylittlepony
-- nashville
-- nattyorjuice
-- nbadiscussion
-- netflix
-- newsokur
-- newzealand
-- nfl
-- nhl
-- norge
-- nosleep
-- nova
-- nrl
-- nvidia
-- nyjets
-- orangecounty
-- orangetheory
-- osugame
-- overlord
-- pathofexile
-- pcmasterrace
-- peloton
-- pesmobile
-- philadelphia
-- phillies
-- phoenix
-- piercing
-- pittsburgh
-- playrust
-- podemos
-- pokemon
-- pokemongo
-- pokemontrades
-- portugal
-- poshmark
-- powerlifting
-- progresspics
-- raleigh
-- ravens
-- rawdenim
-- realmadrid
-- reddeadredemption
-- reddevils
-- redsox
-- rickandmorty
-- ripcity
-- riverdale
-- roadtrip
-- rolex
-- rollercoasters
-- rpdrcringe
-- rugbyunion
-- runescape
-- running
-- rupaulsdragrace
-- rva
-- sanantonio
-- sandiego
-- sanfrancisco
-- saskatoon
-- scifi
-- seinfeld
-- serbia
-- shield
-- sixers
-- skiing
-- skyrim
-- smashbros
-- sneakermarket
-- snowboarding
-- soccer
-- solotravel
-- southpark
-- sports
-- sportsbook
-- starbucks
-- starcitizen
-- startrek
-- steelers
-- stevenuniverse
-- stlouisblues
-- streetwearstartup
-- summonerswar
-- suns
-- survivor
-- sweden
-- swoleacceptance
-- sydney
-- sysadmin
-- tampabayrays
-- tattoos
-- techsupport
-- tennis
-- tf2
-- the100
-- thebachelor
-- thedivision
-- thenetherlands
-- thesims
-- thesopranos
-- thewalkingdead
-- tipofmytongue
-- titanfolk
-- torontoraptors
-- totalwar
-- touhou
-- trailerparkboys
-- translator
-- vagabond
-- vancouver
-- vanderpumprules
-- vegan
-- vzla
-- warriors
-- weightroom
-- westworld
-- wicked_edge
-- wow
-- xboxone
-- xxfitness
-- yeezys
-- yoga
-- yugioh
-- zerocarb
-- AMCsAList
-- AMD_Stock
-- Accounting
-- AusFinance
-- Bestbuy
-- Bitcoin
-- BitcoinMarkets
-- Construction
-- CreditCards
-- CryptoCurrencies
-- CryptoMarkets
-- Ebay
-- Entrepreneur
-- Etsy
-- FinancialCareers
-- Forex
-- HomeDepot
-- Insurance
-- KinFoundation
-- LawSchool
-- LitecoinMarkets
-- Monero
-- OfficeDepot
-- PersonalFinanceCanada
-- PickAnAndroidForMe
-- Ripple
-- RobinHood
-- Scams
-- StockMarket
-- StudentLoans
-- Target
-- TheOCS
-- Truckers
-- Vechain
-- WorkOnline
-- amateurradio
-- badeconomics
-- beermoney
-- bitcoincashSV
-- btc
-- churningcanada
-- consulting
-- couriersofreddit
-- digitalnomad
-- doordash
-- dropship
-- economy
-- eos
-- ethereum
-- ethtrader
-- excel
-- finance
-- forhire
-- gofundme
-- grubhubdrivers
-- lyftdrivers
-- marketing
-- mturk
-- nanocurrency
-- options
-- realestateinvesting
-- sales
-- shopify
-- signupsforpay
-- smallbusiness
-- startups
-- tax
-- wallstreetbets
-- walmart
+  1200isplenty: other
+  2007scape: game
+  3Dprinting: culture
+  49ers: sport
+  80sdesign: culture
+  90DayFiance: film
+  90s: other
+  ABoringDystopia: other
+  ACMilan: sport
+  AMCsAList: finance
+  AMD_Stock: finance
+  AbandonedPorn: culture
+  AcademicPsychology: science
+  Acadiana: other
+  AccidentalWesAnderson: culture
+  Accounting: finance
+  Adelaide: travel
+  AdorableArt: culture
+  AdviceAnimals: discussion
+  AfterTheLoop: other
+  AirForce: sport
+  AmITheDevil: other
+  AmItheAsshole: other
+  AmateurRoomPorn: culture
+  Amd: tech
+  Amsterdam: travel
+  AnalogCommunity: culture
+  Anarchism: other
+  Android: tech
+  Animesuggest: film
+  AnthemTheGame: game
+  AppleMusic: other
+  ArchitecturePorn: culture
+  Art: culture
+  ArtCrit: culture
+  ArtFundamentals: culture
+  ArtefactPorn: science
+  ArtistLounge: culture
+  AskARussian: discussion
+  AskAnAmerican: discussion
+  AskCulinary: discussion
+  AskDocs: discussion
+  AskEconomics: discussion
+  AskEngineers: discussion
+  AskFoodHistorians: discussion
+  AskHistorians: discussion
+  AskHistory: discussion
+  AskMen: discussion
+  AskNYC: discussion
+  AskOldPeople: discussion
+  AskPhysics: discussion
+  AskReddit: discussion
+  AskScienceDiscussion: discussion
+  AskSocialScience: discussion
+  AskWomen: discussion
+  AskWomenOver30: discussion
+  Ask_Politics: discussion
+  Astros: sport
+  Atlanta: travel
+  AtlantaUnited: sport
+  AusFinance: finance
+  Austin: other
+  Austria: travel
+  BDSMAdvice: other
+  Baking: other
+  Barca: sport
+  BattlefieldV: game
+  BeautyBoxes: culture
+  BeautyGuruChatter: other
+  Berserk: film
+  Bestbuy: finance
+  BestofRedditorUpdates: other
+  BigBrother: film
+  Bitcoin: finance
+  BitcoinMarkets: finance
+  BlackClover: film
+  BlackPeopleTwitter: other
+  Blackops4: game
+  Blacksmith: culture
+  BoJackHorseman: film
+  BokuNoHeroAcademia: film
+  Bonsai: culture
+  Boruto: film
+  BostonBruins: sport
+  Boxing: sport
+  Braves: sport
+  BravoRealHousewives: film
+  Brawlstars: game
+  BreakUps: other
+  Breath_of_the_Wild: game
+  Brogress: other
+  Browns: other
+  Buttcoin: finance
+  C25K: health
+  CFB: sport
+  CHIBears: sport
+  CHICubs: sport
+  COVID19positive: health
+  CPTSD: other
+  Calgary: travel
+  CampingGear: health
+  CampingandHiking: health
+  Cardinals: sport
+  CasualConversation: discussion
+  CasualUK: travel
+  CatastrophicFailure: other
+  Charlotte: travel
+  China: travel
+  ChronicIllness: other
+  ClashOfClans: game
+  ClashRoyale: game
+  CoDCompetitive: game
+  Coffee: other
+  CollegeBasketball: sport
+  Columbus: travel
+  CombatFootage: other
+  Competitiveoverwatch: game
+  Conservative: other
+  Construction: finance
+  Cooking: other
+  Coronavirus: health
+  CoronavirusMa: health
+  CozyPlaces: culture
+  CrappyDesign: culture
+  CredibleDefense: other
+  CreditCards: finance
+  Cricket: sport
+  CrohnsDisease: other
+  CrossStitch: culture
+  CrusaderKings: game
+  CryptoCurrencies: finance
+  CryptoCurrency: finance
+  CryptoMarkets: finance
+  CuratedTumblr: other
+  Cyberpunk: other
+  DBZDokkanBattle: game
+  DIY: culture
+  DMAcademy: game
+  Dallas: travel
+  Damnthatsinteresting: other
+  DanLeBatardShow: film
+  DaysGone: game
+  Denmark: travel
+  Denver: travel
+  Design: culture
+  DesignPorn: culture
+  Destiny: game
+  DestinyTheGame: game
+  Detroit: travel
+  DiWHY: culture
+  DigitalPainting: culture
+  Disneyland: travel
+  DnD: game
+  Documentaries: film
+  Dodgers: sport
+  DoesAnybodyElse: other
+  DotA2: game
+  DuelLinks: game
+  DunderMifflin: film
+  DynastyFF: sport
+  EDH: game
+  EDanonymemes: other
+  EOOD: health
+  EarthPorn: travel
+  EatCheapAndHealthy: health
+  Ebay: finance
+  EconomicHistory: finance
+  Economics: finance
+  Edmonton: travel
+  EliteDangerous: game
+  Embroidery: culture
+  Entrepreneur: finance
+  EscapefromTarkov: game
+  Etsy: finance
+  Eve: game
+  FFBraveExvius: game
+  FIFA: sport
+  FORTnITE: game
+  FUTMobile: game
+  Fallout: game
+  Fantasy: film
+  FantasyPL: sport
+  FinancialCareers: finance
+  FireEmblemHeroes: game
+  Firearms: other
+  Fishing: sport
+  Fitness: sport
+  FixedGearBicycle: sport
+  FlashTV: film
+  Forex: finance
+  FortNiteBR: game
+  FortniteCompetitive: game
+  Frugal: finance
+  FundieSnarkUncensored: other
+  Futurology: tech
+  GameOfThronesMemes: film
+  Games: game
+  Gamingcirclejerk: game
+  GetMotivated: health
+  Glitch_in_the_Matrix: film
+  GlobalOffensive: game
+  GlobalOffensiveTrade: other
+  Gold: other
+  GooglePixel: tech
+  GreenAndPleasant: other
+  GreenBayPackers: sport
+  Grimdank: game
+  Guildwars2: game
+  Gundam: film
+  Gymnastics: sport
+  HBOGameofThrones: film
+  Hair: culture
+  HealthyFood: health
+  Heavymind: culture
+  HelpMeFind: culture
+  HermanCainAward: other
+  HistoryMemes: other
+  HistoryPorn: other
+  HobbyDrama: other
+  HomeDepot: finance
+  HomeImprovement: culture
+  HomeKit: culture
+  IASIP: film
+  IAmA: discussion
+  ICanDrawThat: culture
+  IDAP: culture
+  IDontWorkHereLady: other
+  IWantOut: travel
+  IWantToLearn: other
+  ImaginaryWesteros: film
+  IndianCountry: travel
+  Indiemakeupandmore: culture
+  Instagram: culture
+  Insurance: finance
+  InteriorDesign: culture
+  InternetIsBeautiful: culture
+  Israel: travel
+  JapanTravel: travel
+  Jeopardy: film
+  JusticeServed: other
+  Justrolledintotheshop: other
+  KinFoundation: finance
+  Konosuba: film
+  LabourUK: other
+  LateStageCapitalism: other
+  LawSchool: finance
+  Lawyertalk: other
+  LearnJapanese: other
+  LegendsOfTomorrow: film
+  LeopardsAteMyFace: other
+  Less: other
+  LifeProTips: other
+  LigaMX: sport
+  LineageOS: other
+  LitecoinMarkets: finance
+  LiverpoolFC: sport
+  LivestreamFail: other
+  LosAngeles: travel
+  LosAngelesRams: sport
+  LushCosmetics: culture
+  MCFC: sport
+  MLBTheShow: game
+  MLS: sport
+  MMA: sport
+  MTB: sport
+  MUAontheCheap: culture
+  MadeMeCry: other
+  MadeMeSmile: other
+  Mafia: other
+  MagicArena: game
+  Makeup: culture
+  MakeupAddiction: culture
+  MakingaMurderer: film
+  MapPorn: travel
+  Market76: game
+  Marriage: other
+  MarvelStrikeForce: game
+  Mavericks: sport
+  MechanicAdvice: culture
+  MensLib: other
+  Military: finance
+  MilitaryStories: other
+  Minecraft: game
+  Minneapolis: travel
+  MkeBucks: sport
+  ModernMagic: game
+  Monero: finance
+  MonsterHunterWorld: game
+  MorbidHistory: other
+  Mordhau: game
+  MortalKombat: game
+  MostBeautiful: culture
+  MtvChallenge: film
+  Music: other
+  MuslimMarriage: other
+  NBA2k: sport
+  NBASpurs: sport
+  NFA: sport
+  NHLHUT: game
+  NYKnicks: sport
+  NYYankees: sport
+  NarcoFootage: other
+  Naruto: film
+  Nationals: sport
+  NatureIsFuckingLit: other
+  Nerf: sport
+  NetflixBestOf: film
+  NewOrleans: travel
+  NewSkaters: sport
+  NewYorkMets: sport
+  NintendoSwitch: game
+  NoMansSkyTheGame: game
+  NoStupidQuestions: discussion
+  NonBinary: other
+  NonCredibleDefense: other
+  Nordichistorymemes: other
+  Norse: other
+  NotHowGirlsWork: other
+  OfficeDepot: finance
+  OldSchoolCool: culture
+  OnePiece: film
+  OntarioCanada: other
+  OrganicChemistry: science
+  OutOfTheLoop: discussion
+  Overwatch: game
+  PS4: game
+  PSVR: game
+  PUBATTLEGROUNDS: game
+  PUBGMobile: game
+  Paladins: game
+  PanPorn: culture
+  PandR: film
+  Pareidolia: culture
+  ParlerWatch: other
+  Patriots: sport
+  PenmanshipPorn: culture
+  Persona5: game
+  PersonalFinanceCanada: finance
+  Philippines: travel
+  PhotoshopRequest: culture
+  PickAnAndroidForMe: finance
+  PixelArt: culture
+  Planetside: game
+  PlantedTank: culture
+  Plumbing: culture
+  Polska: travel
+  Portland: travel
+  Professors: science
+  ProgrammerHumor: tech
+  PublicFreakout: other
+  QAnonCasualties: other
+  QuantumPhysics: other
+  Quebec: travel
+  Qult_Headquarters: other
+  RWBY: film
+  Rainbow6: game
+  RedDeadOnline: game
+  RedditForGrownups: other
+  RedditLaqueristas: culture
+  RepLadiesBST: other
+  Repsneakers: culture
+  Residency: other
+  RimWorld: game
+  Ripple: finance
+  RobinHood: finance
+  RocketLeague: game
+  RocketLeagueExchange: game
+  RomanceBooks: other
+  Romania: travel
+  RoomPorn: culture
+  Rowing: health
+  SFGiants: sport
+  SWGalaxyOfHeroes: game
+  SWORDS: other
+  Sacramento: travel
+  SaltLakeCity: travel
+  SanJoseSharks: sport
+  SarahSnark: other
+  Scams: finance
+  Scotland: travel
+  Screenwriting: other
+  Sculpture: culture
+  Seaofthieves: game
+  Seattle: travel
+  SequelMemes: film
+  ShingekiNoKyojin: film
+  ShitLiberalsSay: other
+  Shoestring: travel
+  Showerthoughts: other
+  Skookum: culture
+  Smite: game
+  Sneakers: culture
+  Socialism_101: other
+  SonyAlpha: culture
+  SpecArt: culture
+  Spiderman: film
+  SpoiledDragRace: film
+  SquaredCircle: sport
+  StLouis: travel
+  StarVStheForcesofEvil: film
+  StarWarsBattlefront: game
+  StardewValley: game
+  Steam: game
+  Stellaris: game
+  StockMarket: finance
+  StrangerThings: film
+  Stronglifts5x5: health
+  StudentLoans: finance
+  SubredditDrama: other
+  Suomi: travel
+  Supplements: health
+  SweatyPalms: other
+  Target: finance
+  Teachers: finance
+  TeenMomOGandTeenMom2: film
+  Terraria: game
+  ThatsInsane: other
+  The100: other
+  TheAmazingRace: film
+  TheBlackList: film
+  TheDickShow: film
+  TheGirlSurvivalGuide: other
+  TheHandmaidsTale: film
+  TheLastAirbender: film
+  TheLastKingdom: other
+  TheOCS: finance
+  TheSimpsons: film
+  TikTokCringe: other
+  Tinder: other
+  TooAfraidToAsk: other
+  ToolBand: other
+  Tools: culture
+  Torontobluejays: sport
+  Transmedical: other
+  TrollXChromosomes: other
+  Truckers: finance
+  TrueCrime: other
+  TrueFilm: film
+  TrueOffMyChest: other
+  Turkey: travel
+  TurkeyJerky: travel
+  Twitch: game
+  TwoBestFriendsPlay: game
+  USMC: other
+  UkraineWarVideoReport: other
+  UpliftingNews: other
+  VaporwaveAesthetics: culture
+  Vechain: finance
+  VictoriaBC: travel
+  WTF: other
+  WWE: sport
+  WWEGames: sport
+  WaltDisneyWorld: travel
+  WarCollege: other
+  Warframe: game
+  Warhammer40k: game
+  WarshipPorn: other
+  Warthunder: game
+  WatchPeopleDieInside: other
+  Watches: culture
+  Watchexchange: culture
+  Welding: culture
+  Wellington: travel
+  Wetshaving: culture
+  Whatcouldgowrong: other
+  WhatsWrongWithYourDog: other
+  WhitePeopleTwitter: other
+  Windows10: tech
+  Winnipeg: travel
+  WorkOnline: finance
+  WorldOfWarships: game
+  WorldofTanks: game
+  YouShouldKnow: discussion
+  Youniqueamua: culture
+  aSongOfMemesAndRage: other
+  acne: culture
+  adventuretime: film
+  airsoft: sport
+  amateur_boxing: health
+  amateurradio: finance
+  analog: culture
+  animation: culture
+  anime: film
+  anime_irl: film
+  anime_titties: other
+  antiwork: other
+  apple: tech
+  architecture: culture
+  argentina: travel
+  army: other
+  arrow: film
+  askTO: discussion
+  askdrugs: discussion
+  askgaybros: discussion
+  askphilosophy: discussion
+  askscience: science
+  asktransgender: discussion
+  asoiaf: film
+  assassinscreed: other
+  assholedesign: culture
+  australia: travel
+  aviation: other
+  awardtravel: travel
+  aww: other
+  axolotls: other
+  backpacking: travel
+  badeconomics: finance
+  badwomensanatomy: other
+  balisong: sport
+  barstoolsports: sport
+  baseball: sport
+  batman: film
+  battlestations: game
+  bayarea: travel
+  beards: culture
+  beauty: culture
+  beermoney: finance
+  bengals: other
+  berkeley: travel
+  bestof: other
+  bestoflegaladvice: discussion
+  bicycling: sport
+  bikecommuting: sport
+  bikewrench: sport
+  bitcoincashSV: finance
+  bjj: sport
+  blackmirror: film
+  bleach: film
+  blender: culture
+  boardgames: game
+  bodybuilding: health
+  bodyweightfitness: health
+  books: other
+  boostedboards: health
+  bostonceltics: sport
+  brasil: travel
+  brasilivre: travel
+  breakingbad: film
+  brisbane: travel
+  britishproblems: travel
+  brooklynninenine: film
+  btc: finance
+  buildapc: tech
+  cactus: culture
+  camping: health
+  canada: travel
+  canadahousing: other
+  cancer: health
+  canucks: sport
+  cars: tech
+  chat: culture
+  chelseafc: sport
+  chemistry: science
+  chess: sport
+  chile: other
+  churningcanada: finance
+  cincinnati: other
+  cinematography: culture
+  cirkeltrek: other
+  classicwow: game
+  climbing: sport
+  cna: other
+  collapse: other
+  coloradohikers: other
+  comics: culture
+  community: film
+  computergraphics: culture
+  conceptart: culture
+  confession: discussion
+  confidentlyincorrect: other
+  consulting: finance
+  coolguides: culture
+  cordcutters: tech
+  couriersofreddit: finance
+  cowboys: sport
+  coys: sport
+  craftsnark: other
+  creepy: other
+  creepyencounters: other
+  criterion: film
+  croatia: travel
+  crossfit: health
+  cscareerquestions: tech
+  curlyhair: culture
+  cycling: sport
+  danganronpa: game
+  dauntless: game
+  dbz: film
+  de: travel
+  deadbydaylight: game
+  denvernuggets: sport
+  destiny2: game
+  detroitlions: sport
+  diabetes: health
+  diabetes_t1: health
+  digitalnomad: finance
+  discgolf: sport
+  discordapp: tech
+  disney: film
+  dndmemes: game
+  dndnext: game
+  doctorwho: film
+  dontdeadopeninside: culture
+  doodles: culture
+  doordash: finance
+  dropship: finance
+  dubai: travel
+  duolingo: other
+  eagles: sport
+  economy: finance
+  ehlersdanlos: health
+  elderscrollsonline: game
+  electronics: culture
+  ems: other
+  ender3: culture
+  environment: science
+  eos: finance
+  espresso: other
+  ethereum: finance
+  ethtrader: finance
+  eu4: game
+  europe: travel
+  excel: finance
+  exchristian: other
+  explainlikeimfive: discussion
+  exvegans: health
+  facepalm: other
+  fairytail: film
+  fantasybaseball: sport
+  fantasyfootball: sport
+  farming: other
+  fasting: health
+  feemagers: other
+  femalefashionadvice: culture
+  femalehairadvice: culture
+  ffxiv: game
+  finance: finance
+  findculture: culture
+  fireemblem: game
+  fivenightsatfreddys: game
+  fixit: culture
+  flexibility: other
+  flightsim: travel
+  flyfishing: sport
+  fo76: game
+  footballmanagergames: sport
+  forhire: finance
+  forhonor: game
+  formula1: sport
+  fountainpens: culture
+  fragrance: culture
+  france: travel
+  freefolk: film
+  frugalmalefashion: culture
+  functionalprint: culture
+  funny: other
+  futurama: film
+  future_fight: game
+  gadgets: tech
+  gainit: other
+  gamedev: tech
+  gameofthrones: film
+  gay_irl: other
+  germany: travel
+  gifs: other
+  girlsfrontline: other
+  gofundme: finance
+  goldenretrievers: other
+  golf: sport
+  goodyearwelt: culture
+  grandorder: other
+  graphic_design: culture
+  greece: travel
+  greentext: other
+  greysanatomy: film
+  grubhubdrivers: finance
+  gtaonline: game
+  halifax: travel
+  halo: game
+  harrypotter: film
+  headphones: tech
+  hearthstone: game
+  help: discussion
+  heroesofthestorm: game
+  hiking: sport
+  history: science
+  hockey: sport
+  hockeyjerseys: sport
+  hockeyplayers: sport
+  homestead: culture
+  houseplants: culture
+  houston: travel
+  howardstern: film
+  howto: culture
+  humansarespaceorcs: other
+  hungary: travel
+  india: travel
+  indonesia: travel
+  insanepeoplefacebook: other
+  interestingasfuck: other
+  intermittentfasting: health
+  investing: finance
+  iphone: tech
+  ireland: travel
+  italy: travel
+  itookapicture: culture
+  jailbreak: tech
+  japanesestreetwear: culture
+  japanlife: travel
+  jobs: finance
+  justneckbeardthings: other
+  kansascity: travel
+  keto: health
+  korea: travel
+  lakers: sport
+  languagelearning: other
+  lawncare: culture
+  leafs: sport
+  leagueoflegends: game
+  leangains: health
+  learnart: culture
+  learnprogramming: tech
+  learnpython: tech
+  legaladvice: discussion
+  lexington: other
+  linguistics: science
+  logodesign: culture
+  longboarding: sport
+  loseit: health
+  lucifer: film
+  lyftdrivers: finance
+  makeupexchange: culture
+  malaysia: travel
+  malefashion: culture
+  malefashionadvice: culture
+  malehairadvice: culture
+  malelivingspace: culture
+  marketing: finance
+  marvelmemes: film
+  marvelstudios: film
+  medical_advice: health
+  medicalschool: health
+  medicine: health
+  medizzy: other
+  meirl: other
+  melbourne: travel
+  memes: other
+  mexico: travel
+  migraine: health
+  minimalism: culture
+  minipainting: culture
+  minnesotatwins: sport
+  minnesotavikings: sport
+  modelmakers: culture
+  morbidquestions: other
+  movies: film
+  mturk: finance
+  musicals: other
+  musictheory: other
+  mw4: other
+  mycology: science
+  mylittlepony: film
+  nanocurrency: finance
+  nashville: travel
+  nattyorjuice: health
+  navy: other
+  nba: sport
+  nbadiscussion: sport
+  neoliberal: other
+  netflix: film
+  newborns: other
+  news: other
+  newsokur: other
+  newzealand: travel
+  nextfuckinglevel: other
+  nfl: other
+  nhl: sport
+  nocontextpics: other
+  norge: travel
+  nosleep: other
+  nottheonion: other
+  nova: travel
+  nrl: sport
+  nursing: other
+  nutrition: health
+  nvidia: tech
+  nyc: other
+  nyjets: sport
+  olympics: sport
+  ontario: other
+  opiates: other
+  options: finance
+  orangecounty: travel
+  orangetheory: health
+  orchids: culture
+  osr: other
+  osugame: game
+  ottawa: other
+  overlord: film
+  painting: culture
+  pathofexile: game
+  pcmasterrace: game
+  peloton: sport
+  peopleofwalmart: other
+  personalfinance: other
+  pesmobile: game
+  philadelphia: travel
+  phillies: sport
+  phoenix: travel
+  photocritique: culture
+  photography: other
+  photomarket: culture
+  photoshop: culture
+  photoshopbattles: culture
+  physicsmemes: science
+  pics: other
+  piercing: culture
+  pittsburgh: travel
+  plantclinic: culture
+  playrust: game
+  podemos: other
+  pokemon: game
+  pokemongo: game
+  pokemontrades: game
+  polls: other
+  popheads: other
+  portugal: travel
+  poshmark: culture
+  postprocessing: culture
+  povertyfinance: other
+  powerlifting: health
+  pregnant: health
+  preppers: other
+  programming: tech
+  progresspics: other
+  proplifting: culture
+  psychotherapy: other
+  quilting: culture
+  raining: culture
+  raleigh: travel
+  ravens: sport
+  rawdenim: culture
+  realestateinvesting: finance
+  realmadrid: sport
+  reddeadredemption: game
+  reddevils: sport
+  redsox: sport
+  relationship_advice: other
+  rickandmorty: film
+  ripcity: sport
+  riverdale: film
+  roadtrip: travel
+  rolex: culture
+  rollercoasters: travel
+  rpdrcringe: other
+  rugbyunion: sport
+  runescape: game
+  running: sport
+  rupaulsdragrace: film
+  rva: travel
+  sales: finance
+  sanantonio: travel
+  sandiego: travel
+  sanfrancisco: travel
+  saskatoon: travel
+  science: science
+  scifi: film
+  secularbuddhism: other
+  seinfeld: film
+  self: other
+  serbia: travel
+  service_dogs: other
+  sewing: culture
+  shield: film
+  shopify: finance
+  signupsforpay: finance
+  singapore: travel
+  sixers: sport
+  skeptic: other
+  skiing: health
+  skyrim: game
+  slowcooking: other
+  smallbusiness: finance
+  smashbros: game
+  sneakermarket: culture
+  snowboarding: sport
+  soccer: sport
+  socialism: other
+  solotravel: travel
+  southpark: film
+  spacex: science
+  specializedtools: other
+  spiderbro: other
+  sports: sport
+  sportsbook: sport
+  starbucks: other
+  starcitizen: game
+  startrek: film
+  startups: finance
+  steelers: sport
+  stevenuniverse: film
+  stlouisblues: sport
+  streetwearstartup: culture
+  summonerswar: game
+  suns: sport
+  survivor: film
+  sweden: travel
+  swoleacceptance: health
+  sydney: travel
+  sysadmin: tech
+  talesfromtechsupport: other
+  tampabayrays: sport
+  tasmania: travel
+  tattoos: culture
+  tax: finance
+  tech: tech
+  technology: tech
+  techsupport: tech
+  television: film
+  tennis: sport
+  tf2: game
+  thanksimcured: other
+  the100: other
+  thebachelor: film
+  thedivision: game
+  thenetherlands: travel
+  therapists: other
+  thesims: game
+  thesopranos: film
+  thewalkingdead: film
+  tifu: other
+  tipofmytongue: discussion
+  titanfolk: film
+  todayilearned: other
+  toddlers: other
+  tooktoomuch: other
+  torontoraptors: sport
+  totalwar: game
+  touhou: film
+  traaaaaaannnnnnnnnns: other
+  trailerparkboys: film
+  translator: travel
+  travel: travel
+  tumblr: other
+  typography: culture
+  vagabond: travel
+  vancouver: travel
+  vanderpumprules: film
+  vegan: health
+  vexillology: culture
+  videography: culture
+  videos: other
+  visualization: culture
+  vultureculture: other
+  vzla: other
+  wallstreetbets: finance
+  walmart: finance
+  warriors: sport
+  web_design: culture
+  weightlifting: health
+  weightroom: health
+  westworld: film
+  whatisthisthing: discussion
+  whatsthisplant: culture
+  wicked_edge: culture
+  worldnews: other
+  wow: game
+  wowthissubexists: other
+  writing: other
+  ww2: other
+  wyzecamATBGE: other
+  xboxone: game
+  xxfitness: health
+  yeezys: culture
+  yesyesyesno: other
+  yoga: health
+  youtubehaiku: other
+  yugioh: game
+  zerocarb: health

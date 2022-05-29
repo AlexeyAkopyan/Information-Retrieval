@@ -27,7 +27,9 @@ if __name__ == "__main__":
     dataset = pd.read_csv(cfg["paths"]["save_raw_data"])
     logger.info(f"Before preprocessing there are {len(dataset)} unique documents")
     dataset["text"] = dataset["text"].apply(preprocess_text)
+    dataset["tag"] = dataset["tag"].apply(str).apply(preprocess_text)
     dataset = dataset[dataset["text"].apply(len) > cfg["min_length"]]
+    dataset["topic"] = dataset["subreddit"].map(cfg["subreddit_names"])
     dataset.drop_duplicates("text", keep="first", inplace=True)
     dataset.to_csv(cfg["paths"]["save_preprocessed_data"], header=True, index=False)
     logger.info(f"Preprocessed data were stored in {cfg['paths']['save_preprocessed_data']} file")
