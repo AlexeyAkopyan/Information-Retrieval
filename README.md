@@ -35,3 +35,6 @@ As document submissions and comments to a submission is considetered.
 - score: the number of upvotes for the document;
 - subreddit: the name of the subreddit where document was created.
 
+**Data**
+
+The raw and preprocessed collections can be found [here](https://drive.google.com/drive/folders/1I5b56tboHt3DdMA8mvroL7GVvomEHBZ9?usp=sharing).
