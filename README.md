@@ -5,7 +5,7 @@ The Information Retrieval course practical tasks
 To execute the first task, a new [reddit app](https://www.reddit.com/prefs/apps) need to created. After getting the **client_id**, **client_secret** and **user_agent**, they need to be inserted in **config.yaml** file.
 The required python packages are listed in `requirements.txt`.
 
-## Task1
+## Step1
 Realization of a web-crawler for document collecting from [Reddit](https://www.reddit.com/). Besides text of documents the additional metadata is required, e.g. the author's name, topic tags,
 score and publication date. 
 
